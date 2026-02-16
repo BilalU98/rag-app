@@ -1,1 +1,1 @@
-# AI RAG application
+# AI RAG application using python and fastAPI
